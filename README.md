@@ -2,7 +2,7 @@
 
 ![Unity](https://img.shields.io/badge/Unity-6.4%2B-black?logo=unity)
 ![License](https://img.shields.io/badge/license-MIT-blue)
-![Version](https://img.shields.io/badge/version-0.1.0-informational)
+![Version](https://img.shields.io/badge/version-1.0.0-informational)
 
 One-click health check for your Unity scenes. Open **Tools ▸ Scene Doctor**, hit **Scan Scene**, and get a grouped, filterable list of the most common beginner mistakes — many with a one-click fix.
 

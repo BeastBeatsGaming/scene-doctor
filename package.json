@@ -1,6 +1,6 @@
 {
   "name": "com.saimayank.scene-doctor",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "displayName": "Scene Doctor",
   "description": "One-click health check for Unity scenes. Scans the open scene(s) for common beginner mistakes \u2014 missing scripts, broken / unassigned references, missing EventSystem, duplicate AudioListeners, MainCamera tag issues, 2D/3D physics mismatches, UI outside a Canvas, and expensive calls (GetComponent / Find / Camera.main) inside Update. Editor-only, no runtime footprint.",
   "unity": "6000.4",
