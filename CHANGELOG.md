@@ -3,7 +3,7 @@
 All notable changes to this package are documented here. Format loosely follows
 [Keep a Changelog](https://keepachangelog.com/); this project uses semantic versioning.
 
-## [0.1.0] - 2026-06-01
+## [1.0.0] - 2026-06-01
 
 Initial release.
 
