@@ -12,12 +12,28 @@ Editor-only. No runtime code ships in your build.
 
 ## Install
 
-**Option A — Package Manager (from disk)**
+### Via Git URL
+
+In Unity, open **Window ▸ Package Manager**, click **＋ ▸ Add package from git URL…**, and paste:
+
+```
+https://github.com/BeastBeatsGaming/scene-doctor.git
+```
+
+This tracks the `main` branch. To pin a specific version instead, append the release tag:
+
+```
+https://github.com/BeastBeatsGaming/scene-doctor.git#1.0.0
+```
+
+### From disk
+
 1. Window ▸ Package Manager
 2. **+** ▸ *Add package from disk…*
 3. Select the `package.json` inside `com.saimayank.scene-doctor/`.
 
-**Option B — embedded**
+### Embedded
+
 Drop the `com.saimayank.scene-doctor` folder into your project's `Packages/` directory.
 
 Requires Unity **6.4** (6000.4) or newer.
